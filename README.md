@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuzinaro
 - 👀 I’m interested in DIY
-- 🌱 I’m currently learning Electricty
+- 🌱 I’m currently learning Electricity
 - 💞️ I’m looking to collaborate on 3D Printer
 - 📫 How to reach me ...
 
